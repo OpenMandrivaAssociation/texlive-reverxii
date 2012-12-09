@@ -37,3 +37,11 @@ primitive AI.).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jan 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 20111230-1
++ Revision: 759052
+- texlive-reverxii
+- texlive-reverxii
+
