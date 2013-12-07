@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-reverxii
 Version:	20111230
-Release:	2
+Release:	3
 Summary:	Playing Reversi in TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/reverxii
