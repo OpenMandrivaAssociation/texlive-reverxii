@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version undef
 Name:		texlive-reverxii
-Version:	20180303
-Release:	2
+Version:	20190228
+Release:	1
 Summary:	Playing Reversi in TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/reverxii
