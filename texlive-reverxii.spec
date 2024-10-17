@@ -3,7 +3,7 @@ Version:	63753
 Release:	2
 Summary:	Playing Reversi in TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/reverxii
+URL:		https://www.ctan.org/tex-archive/macros/plain/contrib/reverxii
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/reverxii.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/reverxii.doc.r%{version}.tar.xz
